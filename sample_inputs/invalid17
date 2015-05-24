@@ -1,0 +1,1 @@
+(cond ( (less 5 3) T) ( (greater 9 33) T))

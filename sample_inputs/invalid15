@@ -1,0 +1,2 @@
+(defun f (T y) (plus T y))
+(f 1 2)

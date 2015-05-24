@@ -1,0 +1,2 @@
+(defun f () (greater 8 7))
+(f )

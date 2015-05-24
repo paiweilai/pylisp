@@ -1,0 +1,2 @@
+(defun T (cond) (plus cond 1))
+(T 1)

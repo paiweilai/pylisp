@@ -1,0 +1,2 @@
+(defun cond (x y) (less x y))
+(cond 1 2)
